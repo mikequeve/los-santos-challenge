@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'TIRES ITALIC PERSONAL USE';
+    src: url('TIRESITALICPERSONALUSE-BoldItal.eot');
+    src: url('TIRESITALICPERSONALUSE-BoldItal.eot?#iefix') format('embedded-opentype'),
+        url('TIRESITALICPERSONALUSE-BoldItal.woff2') format('woff2'),
+        url('TIRESITALICPERSONALUSE-BoldItal.woff') format('woff'),
+        url('TIRESITALICPERSONALUSE-BoldItal.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
